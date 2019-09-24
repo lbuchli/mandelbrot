@@ -1,0 +1,4 @@
+# dune exec ./mandelbrot.exe
+# OCAMLPARAM: unset
+$ /usr/bin/nproc > /tmp/dunea350e2.output 2> /dev/null
+$ /usr/bin/ocamlc.opt -config > /tmp/duneedf338.output
